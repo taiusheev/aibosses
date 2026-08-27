@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env
+.env.local
+.vercel
+test/decide.mjs
+test/line-verify.mjs
+.DS_Store
+next-env.d.ts
+*.tsbuildinfo
+.env*
+test/llm-parse.mjs
+test/pricing.mjs
+test/gen/
+test/remember.mjs
